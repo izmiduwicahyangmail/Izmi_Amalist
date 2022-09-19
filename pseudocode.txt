@@ -5,5 +5,8 @@ STORE "to do" with "to do list 2"
 
 DISPLAY "to do"
 
+IF "to do list 1" is TRUE
+ELSE "to do list 1" is checklist
+print "to do list 1" is TRUE
 
 
