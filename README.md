@@ -13,7 +13,6 @@ serta dapat melihat progres amalan setiap harinya.
 - flowchart drawio
 - README.md
 - Pseudocode.txt
-- Algoritma.txt
 
 Creadit by :
 - Izmi Duwi Cahyaningsih - BE2733057
