@@ -15,4 +15,6 @@ serta dapat melihat progres amalan setiap harinya.
 - Pseudocode.txt
 - Algoritma.txt
 
+Creadit by :
+- Izmi Duwi Cahyaningsih - BE2733057
 
