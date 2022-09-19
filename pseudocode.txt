@@ -9,4 +9,7 @@ IF "to do list 1" is TRUE
 ELSE "to do list 1" is checklist
 print "to do list 1" is TRUE
 
+IF "to do list 1" is FALSE
+ELSE "to do list 1" is checklist
+print "to do list 1" is FALSE
 
