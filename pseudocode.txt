@@ -1,0 +1,16 @@
+READ AND WRITE "to do " with string
+STORE "to do" with "to do list 1"
+READ AND WRITE "to do " with string
+STORE "to do" with "to do list 2"
+
+DISPLAY "to do"
+
+IF "to do list 1" is TRUE
+ELSE "to do list 1" is checklist
+print "to do list 1" is TRUE
+
+IF "to do list 1" is FALSE
+ELSE "to do list 1" is checklist
+print "to do list 1" is FALSE
+
+END IF
